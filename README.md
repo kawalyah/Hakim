@@ -1,7 +1,6 @@
 # Hakim
 <div id="badges">
 
-  <img src="https://komarev.com/ghpvc/?username=kawalyah&style=flat-square&color=blue" alt=""/>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,6 +10,8 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+   <img src="https://komarev.com/ghpvc/?username=kawalyah&style=flat-square&color=blue" alt=""/>
+   </a>
 </div>
 
 
