@@ -20,7 +20,7 @@
 
 ![Hakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawalyah&show=reviews,discussions_started,discussions_answered,&theme=tokyonight)
 
-### :zap: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
